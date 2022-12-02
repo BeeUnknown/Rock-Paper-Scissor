@@ -1,2 +1,2 @@
 # Rock-Paper-Scissor
-Python Based Game : rock - paper - scissor
+Python Based Game : Rock - Paper - Scissor
